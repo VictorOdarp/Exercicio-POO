@@ -1,0 +1,14 @@
+C:\Users\Victo\Desktop\Projetos simples\MaiorIdade\MaiorIdade\bin\Debug\net7.0\MaiorIdade.exe
+C:\Users\Victo\Desktop\Projetos simples\MaiorIdade\MaiorIdade\bin\Debug\net7.0\MaiorIdade.deps.json
+C:\Users\Victo\Desktop\Projetos simples\MaiorIdade\MaiorIdade\bin\Debug\net7.0\MaiorIdade.runtimeconfig.json
+C:\Users\Victo\Desktop\Projetos simples\MaiorIdade\MaiorIdade\bin\Debug\net7.0\MaiorIdade.dll
+C:\Users\Victo\Desktop\Projetos simples\MaiorIdade\MaiorIdade\bin\Debug\net7.0\MaiorIdade.pdb
+C:\Users\Victo\Desktop\Projetos simples\MaiorIdade\MaiorIdade\obj\Debug\net7.0\MaiorIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Projetos simples\MaiorIdade\MaiorIdade\obj\Debug\net7.0\MaiorIdade.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Projetos simples\MaiorIdade\MaiorIdade\obj\Debug\net7.0\MaiorIdade.AssemblyInfo.cs
+C:\Users\Victo\Desktop\Projetos simples\MaiorIdade\MaiorIdade\obj\Debug\net7.0\MaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Projetos simples\MaiorIdade\MaiorIdade\obj\Debug\net7.0\MaiorIdade.dll
+C:\Users\Victo\Desktop\Projetos simples\MaiorIdade\MaiorIdade\obj\Debug\net7.0\refint\MaiorIdade.dll
+C:\Users\Victo\Desktop\Projetos simples\MaiorIdade\MaiorIdade\obj\Debug\net7.0\MaiorIdade.pdb
+C:\Users\Victo\Desktop\Projetos simples\MaiorIdade\MaiorIdade\obj\Debug\net7.0\MaiorIdade.genruntimeconfig.cache
+C:\Users\Victo\Desktop\Projetos simples\MaiorIdade\MaiorIdade\obj\Debug\net7.0\ref\MaiorIdade.dll

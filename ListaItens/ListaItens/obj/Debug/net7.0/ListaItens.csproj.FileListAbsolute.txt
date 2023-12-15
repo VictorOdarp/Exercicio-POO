@@ -1,0 +1,14 @@
+C:\Users\Victo\Desktop\Projetos simples\ListaItens\ListaItens\bin\Debug\net7.0\ListaItens.exe
+C:\Users\Victo\Desktop\Projetos simples\ListaItens\ListaItens\bin\Debug\net7.0\ListaItens.deps.json
+C:\Users\Victo\Desktop\Projetos simples\ListaItens\ListaItens\bin\Debug\net7.0\ListaItens.runtimeconfig.json
+C:\Users\Victo\Desktop\Projetos simples\ListaItens\ListaItens\bin\Debug\net7.0\ListaItens.dll
+C:\Users\Victo\Desktop\Projetos simples\ListaItens\ListaItens\bin\Debug\net7.0\ListaItens.pdb
+C:\Users\Victo\Desktop\Projetos simples\ListaItens\ListaItens\obj\Debug\net7.0\ListaItens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Projetos simples\ListaItens\ListaItens\obj\Debug\net7.0\ListaItens.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Projetos simples\ListaItens\ListaItens\obj\Debug\net7.0\ListaItens.AssemblyInfo.cs
+C:\Users\Victo\Desktop\Projetos simples\ListaItens\ListaItens\obj\Debug\net7.0\ListaItens.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Projetos simples\ListaItens\ListaItens\obj\Debug\net7.0\ListaItens.dll
+C:\Users\Victo\Desktop\Projetos simples\ListaItens\ListaItens\obj\Debug\net7.0\refint\ListaItens.dll
+C:\Users\Victo\Desktop\Projetos simples\ListaItens\ListaItens\obj\Debug\net7.0\ListaItens.pdb
+C:\Users\Victo\Desktop\Projetos simples\ListaItens\ListaItens\obj\Debug\net7.0\ListaItens.genruntimeconfig.cache
+C:\Users\Victo\Desktop\Projetos simples\ListaItens\ListaItens\obj\Debug\net7.0\ref\ListaItens.dll

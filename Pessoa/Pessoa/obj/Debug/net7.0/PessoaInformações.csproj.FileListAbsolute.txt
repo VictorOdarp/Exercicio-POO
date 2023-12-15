@@ -1,0 +1,14 @@
+C:\Users\Victo\Desktop\Projetos simples\Pessoa\Pessoa\bin\Debug\net7.0\PessoaInformações.exe
+C:\Users\Victo\Desktop\Projetos simples\Pessoa\Pessoa\bin\Debug\net7.0\PessoaInformações.deps.json
+C:\Users\Victo\Desktop\Projetos simples\Pessoa\Pessoa\bin\Debug\net7.0\PessoaInformações.runtimeconfig.json
+C:\Users\Victo\Desktop\Projetos simples\Pessoa\Pessoa\bin\Debug\net7.0\PessoaInformações.dll
+C:\Users\Victo\Desktop\Projetos simples\Pessoa\Pessoa\bin\Debug\net7.0\PessoaInformações.pdb
+C:\Users\Victo\Desktop\Projetos simples\Pessoa\Pessoa\obj\Debug\net7.0\PessoaInformações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Projetos simples\Pessoa\Pessoa\obj\Debug\net7.0\PessoaInformações.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Projetos simples\Pessoa\Pessoa\obj\Debug\net7.0\PessoaInformações.AssemblyInfo.cs
+C:\Users\Victo\Desktop\Projetos simples\Pessoa\Pessoa\obj\Debug\net7.0\PessoaInformações.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Projetos simples\Pessoa\Pessoa\obj\Debug\net7.0\PessoaInformações.dll
+C:\Users\Victo\Desktop\Projetos simples\Pessoa\Pessoa\obj\Debug\net7.0\refint\PessoaInformações.dll
+C:\Users\Victo\Desktop\Projetos simples\Pessoa\Pessoa\obj\Debug\net7.0\PessoaInformações.pdb
+C:\Users\Victo\Desktop\Projetos simples\Pessoa\Pessoa\obj\Debug\net7.0\PessoaInformações.genruntimeconfig.cache
+C:\Users\Victo\Desktop\Projetos simples\Pessoa\Pessoa\obj\Debug\net7.0\ref\PessoaInformações.dll

@@ -1,0 +1,14 @@
+C:\Users\Victo\Desktop\Projetos simples\SomarContas\SomarContas\bin\Debug\net7.0\SomarContas.exe
+C:\Users\Victo\Desktop\Projetos simples\SomarContas\SomarContas\bin\Debug\net7.0\SomarContas.deps.json
+C:\Users\Victo\Desktop\Projetos simples\SomarContas\SomarContas\bin\Debug\net7.0\SomarContas.runtimeconfig.json
+C:\Users\Victo\Desktop\Projetos simples\SomarContas\SomarContas\bin\Debug\net7.0\SomarContas.dll
+C:\Users\Victo\Desktop\Projetos simples\SomarContas\SomarContas\bin\Debug\net7.0\SomarContas.pdb
+C:\Users\Victo\Desktop\Projetos simples\SomarContas\SomarContas\obj\Debug\net7.0\SomarContas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Projetos simples\SomarContas\SomarContas\obj\Debug\net7.0\SomarContas.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Projetos simples\SomarContas\SomarContas\obj\Debug\net7.0\SomarContas.AssemblyInfo.cs
+C:\Users\Victo\Desktop\Projetos simples\SomarContas\SomarContas\obj\Debug\net7.0\SomarContas.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Projetos simples\SomarContas\SomarContas\obj\Debug\net7.0\SomarContas.dll
+C:\Users\Victo\Desktop\Projetos simples\SomarContas\SomarContas\obj\Debug\net7.0\refint\SomarContas.dll
+C:\Users\Victo\Desktop\Projetos simples\SomarContas\SomarContas\obj\Debug\net7.0\SomarContas.pdb
+C:\Users\Victo\Desktop\Projetos simples\SomarContas\SomarContas\obj\Debug\net7.0\SomarContas.genruntimeconfig.cache
+C:\Users\Victo\Desktop\Projetos simples\SomarContas\SomarContas\obj\Debug\net7.0\ref\SomarContas.dll

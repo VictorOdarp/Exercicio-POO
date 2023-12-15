@@ -1,0 +1,14 @@
+C:\Users\Victo\Desktop\Projetos simples\AreaRetangulo\AreaRetangulo\bin\Debug\net7.0\AreaRetangulo.exe
+C:\Users\Victo\Desktop\Projetos simples\AreaRetangulo\AreaRetangulo\bin\Debug\net7.0\AreaRetangulo.deps.json
+C:\Users\Victo\Desktop\Projetos simples\AreaRetangulo\AreaRetangulo\bin\Debug\net7.0\AreaRetangulo.runtimeconfig.json
+C:\Users\Victo\Desktop\Projetos simples\AreaRetangulo\AreaRetangulo\bin\Debug\net7.0\AreaRetangulo.dll
+C:\Users\Victo\Desktop\Projetos simples\AreaRetangulo\AreaRetangulo\bin\Debug\net7.0\AreaRetangulo.pdb
+C:\Users\Victo\Desktop\Projetos simples\AreaRetangulo\AreaRetangulo\obj\Debug\net7.0\AreaRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Projetos simples\AreaRetangulo\AreaRetangulo\obj\Debug\net7.0\AreaRetangulo.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Projetos simples\AreaRetangulo\AreaRetangulo\obj\Debug\net7.0\AreaRetangulo.AssemblyInfo.cs
+C:\Users\Victo\Desktop\Projetos simples\AreaRetangulo\AreaRetangulo\obj\Debug\net7.0\AreaRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Projetos simples\AreaRetangulo\AreaRetangulo\obj\Debug\net7.0\AreaRetangulo.dll
+C:\Users\Victo\Desktop\Projetos simples\AreaRetangulo\AreaRetangulo\obj\Debug\net7.0\refint\AreaRetangulo.dll
+C:\Users\Victo\Desktop\Projetos simples\AreaRetangulo\AreaRetangulo\obj\Debug\net7.0\AreaRetangulo.pdb
+C:\Users\Victo\Desktop\Projetos simples\AreaRetangulo\AreaRetangulo\obj\Debug\net7.0\AreaRetangulo.genruntimeconfig.cache
+C:\Users\Victo\Desktop\Projetos simples\AreaRetangulo\AreaRetangulo\obj\Debug\net7.0\ref\AreaRetangulo.dll

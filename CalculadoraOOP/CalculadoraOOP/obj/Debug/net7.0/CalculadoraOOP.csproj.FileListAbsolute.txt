@@ -1,0 +1,14 @@
+C:\Users\Victo\Desktop\Projeto Calculadora\CalculadoraOOP\CalculadoraOOP\bin\Debug\net7.0\CalculadoraOOP.exe
+C:\Users\Victo\Desktop\Projeto Calculadora\CalculadoraOOP\CalculadoraOOP\bin\Debug\net7.0\CalculadoraOOP.deps.json
+C:\Users\Victo\Desktop\Projeto Calculadora\CalculadoraOOP\CalculadoraOOP\bin\Debug\net7.0\CalculadoraOOP.runtimeconfig.json
+C:\Users\Victo\Desktop\Projeto Calculadora\CalculadoraOOP\CalculadoraOOP\bin\Debug\net7.0\CalculadoraOOP.dll
+C:\Users\Victo\Desktop\Projeto Calculadora\CalculadoraOOP\CalculadoraOOP\bin\Debug\net7.0\CalculadoraOOP.pdb
+C:\Users\Victo\Desktop\Projeto Calculadora\CalculadoraOOP\CalculadoraOOP\obj\Debug\net7.0\CalculadoraOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Projeto Calculadora\CalculadoraOOP\CalculadoraOOP\obj\Debug\net7.0\CalculadoraOOP.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Projeto Calculadora\CalculadoraOOP\CalculadoraOOP\obj\Debug\net7.0\CalculadoraOOP.AssemblyInfo.cs
+C:\Users\Victo\Desktop\Projeto Calculadora\CalculadoraOOP\CalculadoraOOP\obj\Debug\net7.0\CalculadoraOOP.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Projeto Calculadora\CalculadoraOOP\CalculadoraOOP\obj\Debug\net7.0\CalculadoraOOP.dll
+C:\Users\Victo\Desktop\Projeto Calculadora\CalculadoraOOP\CalculadoraOOP\obj\Debug\net7.0\refint\CalculadoraOOP.dll
+C:\Users\Victo\Desktop\Projeto Calculadora\CalculadoraOOP\CalculadoraOOP\obj\Debug\net7.0\CalculadoraOOP.pdb
+C:\Users\Victo\Desktop\Projeto Calculadora\CalculadoraOOP\CalculadoraOOP\obj\Debug\net7.0\CalculadoraOOP.genruntimeconfig.cache
+C:\Users\Victo\Desktop\Projeto Calculadora\CalculadoraOOP\CalculadoraOOP\obj\Debug\net7.0\ref\CalculadoraOOP.dll
